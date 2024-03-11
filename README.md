@@ -1,7 +1,7 @@
 # Point-Estimates-and-Confidence-Intervals
 Descriptive Statistics Estimates and Confidence Intervals for Chicago Public Housing Analysis
 Code
-chicago_R_data <- read.table("C:/Users/kabir/OneDrive/Documents/Chicago.dat.txt", header=TRUE, sep="")
+chicago_R_data <- read.table("C:/UsersChicago.dat.txt", header=TRUE, sep="")
 hist(chicago_R_data$income, main="Histogram of Annual Income for Chicago Residents (Public Housing)", xlab="Resident Income (in thousands)", ylab="Frequency", col="sky blue", cex.main=0.8)
 mean_ChicagoUS_income <- mean(chicago_R_data$income)
 sd_ChicagoUS_income <- sd(chicago_R_data$income)    
