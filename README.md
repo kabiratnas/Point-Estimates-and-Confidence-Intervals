@@ -81,7 +81,11 @@ print(Anorexiapatients_Confidence)
 
 ## Visualization
 - **Histograms** to illustrate income distribution.
+- ![image](https://github.com/user-attachments/assets/464bf381-bb7d-47f3-aac0-16a4c7d06f32)
+
 - **Boxplots** to compare pre- and post-therapy weight changes.
+- ![image](https://github.com/user-attachments/assets/467087c6-41e9-4335-a4d8-8742fbb788a2)
+
 
 ## References
 - Favero, L. P., & Belfiore, P. (2019). *Data Science for Business and Decision Making*. Elsevier S & T.
